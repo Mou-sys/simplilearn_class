@@ -1,4 +1,7 @@
 This is fileP in Mabel branch
+<<<<<<< HEAD
 dev
 Editing in github Mabel branch
 staging
+=======
+>>>>>>> c4e02382b6378fadf1abe099c6dbf9aa6041dbca
